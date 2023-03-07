@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624299945181",
+    "project_id": "makaya-f3a0b",
+    "storage_bucket": "makaya-f3a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624299945181:android:efc977983ca235d5173f34",
+        "android_client_info": {
+          "package_name": "com.stackbuffers.respectmartapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624299945181-dgld860k4cuiatuq7m2kck27sk6olemm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stackbuffers.respectmartapplication",
+            "certificate_hash": "465de4d72609fcc5c05d8e6d63df97966c83db08"
+          }
+        },
+        {
+          "client_id": "624299945181-2rjohbi3v9fgg58qp89kqdtc7qk63d5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxzJO95qS3BMBOJ9coDHtl9CVChJ0iZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624299945181-2rjohbi3v9fgg58qp89kqdtc7qk63d5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
